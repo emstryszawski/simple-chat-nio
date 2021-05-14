@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="182dca65-30e1-4c81-89f3-3ad88fe44c3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../SIMPLECHAT_NIO" beforeDir="false" afterPath="$PROJECT_DIR$/../SIMPLECHAT_NIO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad1/ChatClientTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad1/ChatClientTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SIMPLECHAT_NIO/TPO6_SE_S20607" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TPO5-Chat-Client_Task" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emil\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Studia\sem_IV\TPO\TPO6_SE_S20607" />
+      <recent name="C:\Users\Emil\OneDrive - Polsko-Japońska Akademia Technik Komputerowych\Studia\sem_IV\TPO\TPO6_SE_S20607\.idea" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -35,17 +43,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,7 +68,8 @@
       <workItem from="1620647173690" duration="7760000" />
       <workItem from="1620658972073" duration="731000" />
       <workItem from="1620672686567" duration="111000" />
-      <workItem from="1620918779015" duration="711000" />
+      <workItem from="1620918779015" duration="917000" />
+      <workItem from="1620993608133" duration="1936000" />
     </task>
     <servers />
   </component>
